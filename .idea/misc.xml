@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/activity_admin_detail.xml" value="0.264" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/activity_admin_notification_form.xml" value="0.1515625" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/activity_analyize.xml" value="0.264" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/activity_calculator.xml" value="0.1515625" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/activity_createsurvey.xml" value="0.17708333333333334" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/activity_date.xml" value="0.25" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/activity_edit_quersstionare.xml" value="0.1515625" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/activity_edit_survey.xml" value="0.2" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/activity_faculty_population.xml" value="0.1515625" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/activity_multiple_choice.xml" value="0.1515625" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/activity_pending.xml" value="0.25" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/activity_pending_questions.xml" value="0.1515625" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/activity_previous_survey_list.xml" value="0.1515625" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/activity_radiobutton.xml" value="0.17708333333333334" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/activity_signup.xml" value="0.2" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/activity_student_population.xml" value="0.2" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/activity_survey_time.xml" value="0.2" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/activity_survey_time2.xml" value="0.1515625" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/activity_test_page.xml" value="0.1515625" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/admin_notification.xml" value="0.1515625" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/analyize_results_row.xml" value="0.2" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/create_survey_curtom.xml" value="0.25" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/custom_spinner.xml" value="0.1" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/faculty_populate_row.xml" value="0.264" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/new_survey_dailog.xml" value="0.25" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/pending_questions_row.xml" value="0.264" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/pending_row.xml" value="0.1515625" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/population.xml" value="0.1515625" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/sample_previous_survey.xml" value="0.1515625" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/semester_row.xml" value="0.15052083333333333" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/semester_spinner_row.xml" value="0.136" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/spinner_dropdown_item.xml" value="0.1515625" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/spinner_sem.xml" value="0.20512820512820512" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/student_section.xml" value="0.25" />
+        <entry key="..\:/HarvardX/AppDevelopments/Java/smartStudy/firstapp/app/src/main/res/layout/student_semester.xml" value="0.2" />
+        <entry key="..\:/Users/Hammad/AndroidStudioProjects/firstapp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hammad/AndroidStudioProjects/firstapp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hammad/AndroidStudioProjects/firstapp/app/src/main/res/drawable/ic_username.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hammad/AndroidStudioProjects/firstapp/app/src/main/res/drawable/thumb.xml" value="0.1" />
+        <entry key="..\:/Users/Hammad/AndroidStudioProjects/firstapp/app/src/main/res/drawable/track.xml" value="0.1" />
+        <entry key="..\:/Users/Hammad/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_calculator.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Hammad/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_createsurvey.xml" value="0.25" />
+        <entry key="..\:/Users/Hammad/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_firstpage.xml" value="0.20153985507246377" />
+        <entry key="..\:/Users/Hammad/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_javarefresher.xml" value="0.1" />
+        <entry key="..\:/Users/Hammad/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_login_form.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Hammad/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Hammad/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_multiple_choice.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Hammad/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_questionare.xml" value="0.21" />
+        <entry key="..\:/Users/Hammad/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_radio_button.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Hammad/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_radiobutton.xml" value="0.25" />
+        <entry key="..\:/Users/Hammad/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_scrool.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Hammad/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/Users/Hammad/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_splashscreen.xml" value="0.22" />
+        <entry key="..\:/Users/Hammad/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_textbox.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Hammad/AndroidStudioProjects/firstapp/app/src/main/res/layout/create_survey_curtom.xml" value="0.25" />
+        <entry key="..\:/Users/Hammad/AndroidStudioProjects/firstapp/app/src/main/res/layout/fragment_second.xml" value="0.20153985507246377" />
+        <entry key="..\:/Users/Hammad/AndroidStudioProjects/firstapp/app/src/main/res/layout/new_survey_dailog.xml" value="0.25" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/drawable/ic_allow_option.xml" value="0.1" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/drawable/ic_category.xml" value="0.1" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/drawable/ic_cnfrmpassword.xml" value="0.1" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/drawable/ic_email.xml" value="0.1" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/drawable/thumb.xml" value="0.1" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_admin_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_admin_notification_form.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_audience_info.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_calculator.xml" value="0.1" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_createsurvey.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_edit_quersstionare.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_edit_survey.xml" value="0.1" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_faculty_population.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_faculty_survey.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_login_form.xml" value="0.15" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_multiple_choice.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_previous_survey_list.xml" value="0.1" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_questionare.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_questionare_recycler.xml" value="0.1" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_radiobutton.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_signup.xml" value="0.16184971098265896" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_splashscreen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_student_population.xml" value="0.22" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_test_page.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/activity_textbox.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/admin_notification.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/audience_name.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/conduct_options.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/conduct_save.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/create_survey_curtom.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/custom_multi_choice.xml" value="0.2" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/new_survey_dailog.xml" value="0.1" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/population.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/questionare_recyclar.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/sample_previous_survey.xml" value="0.2" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/savesurvey.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/layout/student_save_survey.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/menu/menu.xml" value="0.22" />
+        <entry key="..\:/Users/Sehar Qureshi/AndroidStudioProjects/firstapp/app/src/main/res/menu/share.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

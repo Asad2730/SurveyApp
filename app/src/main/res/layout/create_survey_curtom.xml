@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Create Survey"
+    android:textSize="30dp"
+    android:textColor="@color/green"
+    android:gravity="center"
+    android:layout_marginTop="15dp"
+    android:drawableBottom="@color/black"
+    />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="82dp"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:text="Start with one of previous survey or create a new survey from scratch."
+        android:textSize="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+
+        />
+    <Button
+        android:id="@+id/btn_newsurvey"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       android:backgroundTint="@color/white"
+        android:text="NEW SURVEY"
+        android:textColor="@color/green"
+        android:textSize="20dp"
+        android:padding="15dp"
+        android:onClick="btn_newsurvey"
+
+
+        />
+    <Button
+        android:id="@+id/btn_editsurvey"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/white"
+        android:text="View previous survey"
+        android:textColor="@color/green"
+        android:textSize="20dp"
+        android:padding="15dp"
+android:onClick="btn_editsurvey"
+
+        />
+    <Button
+        android:id="@+id/btn_pending"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/white"
+        android:text="Pending Survey"
+        android:textColor="@color/green"
+        android:textSize="20dp"
+        android:padding="15dp"
+        android:onClick="btn_editsurvey"
+
+        />
+
+    <Button
+        android:id="@+id/btn_cancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/white"
+        android:text="cancel"
+        android:textColor="@color/green"
+        android:textSize="20dp"
+        android:padding="15dp"
+        android:onClick="btn_cancel"
+
+
+        />
+</LinearLayout>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".faculty_population"
+    android:orientation="vertical">
+
+
+
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <RadioButton
+                    android:id="@+id/rbAll"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:minHeight="48dp"
+                    android:text="All Faculty"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+
+                <RadioButton
+                    android:id="@+id/rbSpecific"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:minHeight="48dp"
+                    android:text="Specific Faculty"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+            </RadioGroup>
+
+               <LinearLayout
+                   android:id="@+id/view"
+                   android:layout_width="wrap_content"
+                   android:layout_height="0dp"
+                   android:layout_weight="1"
+                   android:orientation="vertical">
+
+                   <ListView
+                       android:id="@+id/listview_data"
+                       android:layout_width="396dp"
+                       android:layout_height="match_parent"
+                       android:choiceMode="multipleChoice" />
+
+               </LinearLayout>
+
+
+
+    <Button
+        android:layout_marginTop="10dp"
+        android:id="@+id/save"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="bold"
+        android:text="ADD" />
+
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

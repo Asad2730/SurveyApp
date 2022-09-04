@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="New Survey"
+        android:textSize="30dp"
+        android:textColor="@color/green"
+        android:gravity="center"
+        android:layout_marginTop="15dp"
+        android:drawableBottom="@color/black"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+
+        android:gravity="center"
+        android:text="Click on Save button if you want to save the Survey and wait for admin approval."
+        android:textSize="20dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+
+        />
+
+
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Save"
+            android:background="@color/green"
+            android:layout_marginTop="25dp"
+            android:layout_marginLeft="150dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:id="@+id/btn_saveSurvey"
+      android:gravity="center"
+
+            />
+
+
+
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

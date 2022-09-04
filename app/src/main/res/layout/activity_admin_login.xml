@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Admin_login"
+    android:orientation="vertical"
+    android:padding="30dp"
+    android:background="@color/white">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/login"
+
+
+        />
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Admin Login"
+        android:gravity="center"
+        android:textSize="30dp"
+        />
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:layout_marginTop="15dp"
+        android:textColorHint="@color/text_grey"
+        app:startIconDrawable="@drawable/ic_username"
+        >
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/admin_name"
+
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:ems="10"
+            android:hint="Enter name"
+            android:inputType="text"
+            android:textSize="20sp" />
+    </com.google.android.material.textfield.TextInputLayout>
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:layout_marginTop="20dp"
+        android:textColorHint="@color/text_grey"
+        app:startIconDrawable="@drawable/ic_password"
+        >
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/admin_pass"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:ems="10"
+            android:hint="Enter Password"
+            android:inputType="textPassword"
+            android:textSize="20sp"
+
+            />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+
+
+        <Button
+            android:id="@+id/admin_login"
+            android:layout_width="130dp"
+            android:layout_height="55dp"
+            android:text="Login"
+            android:layout_marginTop="60dp"
+            android:textSize="20dp"
+            android:layout_marginLeft="100dp"
+            android:background="@color/green"
+             android:gravity="center"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+
+            />
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

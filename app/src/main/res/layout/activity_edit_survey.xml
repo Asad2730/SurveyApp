@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EditSurvey"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/displaysurveytitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:gravity="center"
+        android:hint="Survey Name"
+        android:padding="10dp"
+        android:textSize="20dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="370dp"
+        app:cardElevation="10dp"
+        app:cardCornerRadius="20dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        app:cardBackgroundColor="@color/white"
+
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true"
+        android:outlineSpotShadowColor="@color/green">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Finish this Survey"
+        android:textSize="15dp"
+        android:textColor="@color/black"
+        android:layout_marginLeft="30dp"
+        />
+        <Button
+            android:id="@+id/btn_edit"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:backgroundTint="@color/white"
+            android:padding="15dp"
+            android:text="Edit survey"
+            android:textColor="@color/green"
+            android:textSize="20dp"
+
+
+            />
+
+        <Button
+            android:id="@+id/btn_conduct"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:backgroundTint="@color/white"
+            android:text="conduct survey"
+            android:textColor="@color/green"
+            android:textSize="20dp"
+            android:padding="15dp"
+
+
+            />
+        <Button
+            android:id="@+id/btn_result"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:backgroundTint="@color/white"
+            android:text="analyze your results"
+            android:textColor="@color/green"
+            android:textSize="20dp"
+            android:padding="15dp"
+
+
+
+            />
+</LinearLayout>
+    </androidx.cardview.widget.CardView>
+</androidx.appcompat.widget.LinearLayoutCompat>

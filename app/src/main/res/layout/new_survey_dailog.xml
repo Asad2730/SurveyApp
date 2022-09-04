@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="New Survey"
+        android:textSize="30dp"
+        android:textColor="@color/green"
+        android:gravity="center"
+        android:layout_marginTop="15dp"
+        android:drawableBottom="@color/black"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+
+        android:gravity="center"
+        android:text="Give your Survey a Title"
+        android:textSize="20dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+
+        />
+<EditText
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/back_grey"
+    android:layout_marginLeft="25dp"
+    android:layout_marginRight="25dp"
+   android:hint="Untitled Survey"
+    android:textSize="20dp"
+    android:paddingBottom="7dp"
+    android:paddingTop="7dp"
+    android:paddingLeft="10dp"
+    android:id="@+id/txt_surveytitle"
+
+
+    />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingBottom="20dp"
+
+        >
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cancel"
+            android:background="@color/green"
+            android:layout_marginTop="25dp"
+            android:layout_marginLeft="50dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:id="@+id/btn_titlecancel"
+              android:onClick="btn_titlecancel"
+
+            />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="create"
+            android:layout_marginTop="25dp"
+            android:layout_marginLeft="80dp"
+            android:paddingLeft="20dp"
+            android:background="@color/green"
+            android:paddingRight="20dp"
+            android:id="@+id/btn_titlecreate"
+             android:onClick="btn_titlecreate"
+
+            />
+
+    </LinearLayout>
+
+
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

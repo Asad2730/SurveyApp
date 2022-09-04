@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Edit_quersstionare"
+    android:orientation="vertical">
+
+
+
+        <TextView
+            android:id="@+id/edit_txt_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:gravity="center"
+            android:hint="Title Name"
+            android:padding="10dp"
+            android:textSize="20dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/edit_Q_RecyclerView"
+            android:layout_marginTop="65dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:listitem="@layout/custom_multi_choice"
+            />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/edit_btn_multichoice"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="40dp"
+            android:layout_marginBottom="60dp"
+            android:layout_weight="0"
+            android:layout_gravity="bottom|right"
+            android:backgroundTint="@color/green"
+            android:clickable="true"
+            android:visibility="visible"
+            app:fabSize="auto"
+
+
+            app:srcCompat="@drawable/ic_multichoice"
+            tools:ignore="SpeakableTextPresentCheck,VectorDrawableCompat"
+            tools:layout_editor_absoluteX="323dp"
+            tools:layout_editor_absoluteY="510dp" />
+
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".createsurvey">
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        app:cardElevation="10dp"
+        app:cardCornerRadius="20dp"
+        android:layout_margin="10dp"
+        app:cardBackgroundColor="@color/white"
+
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true"
+        android:outlineSpotShadowColor="@color/green"
+
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="Welcome!"
+            android:textColor="@color/green"
+            android:textSize="30dp"
+            android:textStyle="bold"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="95dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginRight="15dp"
+            android:gravity="center"
+            android:text="Welcome to BIIT Survey Monkey.Create your survey and use the insight to make better decisions."
+            android:textColor="@color/black" />
+    </androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        app:cardElevation="10dp"
+        app:cardCornerRadius="20dp"
+
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        app:cardBackgroundColor="@color/white"
+
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true"
+        android:outlineSpotShadowColor="@color/green"
+
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Create Your Own Surveys!"
+            android:textSize="25dp"
+            android:textColor="@color/green"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            />
+
+        <TextView
+            android:layout_width="289dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:gravity="center"
+            android:layout_marginTop="65dp"
+            android:text="Use the insights to make bettter decisions."
+            android:textColor="@color/black"
+            android:textSize="18dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="170dp"
+             android:layout_marginLeft="85dp"
+             android:onClick="btn_create_survey"
+            android:text="Create Survey"
+            android:background="@color/green"
+            android:textSize="15dp"
+            android:padding="20dp"
+
+
+            />
+
+
+    </androidx.cardview.widget.CardView>
+
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>
